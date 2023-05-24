@@ -1,0 +1,17 @@
+{
+  "name": "discord-_bot_node_18",
+  "version": "1.0.0",
+  "description": "A discord chatbot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
